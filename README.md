@@ -6,14 +6,13 @@ About me:
 🔭 I’m currently working as manager on a coffeshop in Gijon. I´m a coffee lover :)
 👩 I'm on my way of becoming a Junior FrontEnd Developer, learning with Factoria F5.
 🧠 Always learning new things for feeding my mind inside and outside of developming world.
-🗨️ Talk me about Git, Angular , HTML5, CSS3 and SASS
-📫 E-mail: angarlopez@hotmail.com (Yes, that´s old school!)
-⌛ In my free time I like learn about cook, travel, yoga, cinema and stay with my closet people and my two cats.
-🏆 I used to play piano and paint castles :P
+🗨️ Talk me about Gastronomy and painting :)
+⌛ In my free time I like spend time in concerts, cinema, trekking and staying at home with my 2 cats
+🏆 I have a degree and master in Psichology
 
 🛠️ Languages and Tools:
-
-html5 css3 sass javascript angular typescript php java postman bootstrap figma git
+Learning about:
+html5 css3 sass javascript java postman bootstrap figma git springboot
 
 🔥 My Stats :
 GitHub Streak
