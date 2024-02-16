@@ -16,6 +16,8 @@ About me:
 Learning about:
 html5 css3 sass javascript java postman bootstrap figma git springboot
 
+<div class="tenor-gif-embed" data-postid="15323801" data-share-method="host" data-aspect-ratio="1.31148" data-width="100%"><a href="https://tenor.com/view/happy-smiling-jim-carrey-gif-15323801">Happy Smiling GIF</a>from <a href="https://tenor.com/search/happy-gifs">Happy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 🔥 My Stats :
 GitHub Streak
 
