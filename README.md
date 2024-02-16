@@ -1,5 +1,6 @@
 ### Hi, Im Ana :) 👋
-![S0S](https://github.com/anagarlopez/anagarlopez/assets/146724647/c2290cc1-9ab5-430b-9fef-5b7f8b9f4410)
+![6os](https://github.com/anagarlopez/anagarlopez/assets/146724647/c623f940-409a-4b18-9d1a-df8efeff1632)
+
 
 
 I´m a creative person and curious about technology. I love experimenting with new tools and programs to create new and powerfull things. I consider myself a constant learner and am always looking for ways to expand my knowledge and skills. Outside of my job, I enjoy spending time outdoors, I love nature, mountains, cinema, and travelling to experience different cultures and politics. I´m very sensitive with other problems
@@ -23,9 +24,7 @@ Contact:
 Ana García
 angarlopez@hotmail.com
 
-
-![7VE](https://github.com/anagarlopez/anagarlopez/assets/146724647/1ade41e5-7ad4-4323-b773-46ad185f5fee)![6os](https://github.com/anagarlopez/anagarlopez/assets/146724647/c6b93a9b-afd6-4862-8842-fd2fbf8d7389)
-
+![7VE](https://github.com/anagarlopez/anagarlopez/assets/146724647/ffbf74fa-87c7-49d2-8a21-495461bc9b4f)
 
 <!--
 **anagarlopez/anagarlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
