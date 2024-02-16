@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ana</h1>
 <h3 align="center">I´m in my way of becoming a full stack developer, learning a little bit every days. I love experimenting with new tools and programs to create new and powerfull things. I consider myself a constant learner and am always looking for ways to expand my knowledge and skills.</h3>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=anagarlopez&label=Profile%20views&color=0e75b6&style=flat" alt="anagarlopez" /> </p>
 
 - 🔭 I’m currently working on -->  **a coffeshop in Asturias, Spain.**
 
