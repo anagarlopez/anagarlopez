@@ -24,6 +24,8 @@ Ana García
 angarlopez@hotmail.com
 
 
+![7VE](https://github.com/anagarlopez/anagarlopez/assets/146724647/1ade41e5-7ad4-4323-b773-46ad185f5fee)![6os](https://github.com/anagarlopez/anagarlopez/assets/146724647/c6b93a9b-afd6-4862-8842-fd2fbf8d7389)
+
 
 <!--
 **anagarlopez/anagarlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
