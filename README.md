@@ -1,5 +1,5 @@
 ### Hi, Im Ana :) 👋
-<iframe src="https://gifer.com/embed/2oQ" width=480 height=482.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com"></a></p>
+<iframe src="https://gifer.com/embed/2oQ" width=480 height=482.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com"></a></p> https://i.gifer.com/2oQ.gif
 
 I´m a creative person and curious about technology. I love experimenting with new tools and programs to create new and powerfull things. I consider myself a constant learner and am always looking for ways to expand my knowledge and skills. Outside of my job, I enjoy spending time outdoors, I love nature, mountains, cinema, and travelling to experience different cultures and politics. I´m very sensitive with other problems
 
